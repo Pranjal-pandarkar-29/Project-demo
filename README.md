@@ -1,2 +1,2 @@
 # Project-demo
-This is beginer project
+This is project
